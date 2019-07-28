@@ -1,0 +1,10 @@
+*.pyc
+.idea/
+logs/
+db.development
+db.production
+migrations/
+*.log
+.idea/workspace.xml
+*.xml
+is_development.py
