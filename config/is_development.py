@@ -1,2 +1,2 @@
-IS_DEVELOLMENT = True
+IS_DEVELOPMENT = True
 # Use env variables here
